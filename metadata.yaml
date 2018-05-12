@@ -1,0 +1,33 @@
+_repo: Tramping-with-TrampsStudies-and-Sketches-of-Vagabond-Life_40036
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flynt, Josiah
+    alias: Willard, Josiah Flynt
+    birthdate: 1869
+    deathdate: 1907
+    gutenberg_agent_id: '37421'
+    url: http://www.gutenberg.org/2009/agents/37421
+description: ''
+gutenberg_issued: '2012-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Tramps'
+tableOfContents: The criminal in the open -- The children of the road -- Club life
+  among outcasts -- The American tramp considered geographically -- The city tramp
+  -- What the tramp eats and wears -- Life among German tramps -- With the Russian
+  Goriouns -- Two tramps in England -- The tramp at home -- The tramp and the railroads
+  -- Old Boston Mary -- Jamie the Kid -- One night on the "Q" -- A pulque dream --
+  A hobo precedent -- The tramp's jargon -- Glossary.
+title: 'Tramping with Tramps: Studies and Sketches of Vagabond Life'
+url: http://www.gutenberg.org/ebooks/40036
