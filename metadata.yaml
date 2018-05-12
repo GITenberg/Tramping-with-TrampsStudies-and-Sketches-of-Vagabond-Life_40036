@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37421'
     url: http://www.gutenberg.org/2009/agents/37421
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40036#Tramping-with-TrampsStudies-and-Sketches-of-Vagabond-Life
 gutenberg_issued: '2012-06-18'
 gutenberg_type: Text
 identifiers:
